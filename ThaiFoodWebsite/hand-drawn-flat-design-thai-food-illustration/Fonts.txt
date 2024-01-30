@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Sriracha
+Author: Cadson Demak
+Url: https://fonts.google.com/specimen/Sriracha
+
+Font: Londrina Solid
+Author: Marcelo Magalhães
+Url: https://fonts.google.com/specimen/Londrina+Solid
